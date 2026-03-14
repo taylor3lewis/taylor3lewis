@@ -9,7 +9,7 @@ I specialize in scalable data engineering solutions, distributed web scraping an
 Python • Spark • Airflow • AWS • SQL • Docker • Distributed Data Processing
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark)
+![Spark](https://img.shields.io/badge/Spark-FFFFFF?logo=apachespark)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
 
 ## Areas of Expertise
