@@ -11,6 +11,7 @@ Python • Spark • Airflow • AWS • SQL • Docker • Distributed Data Pro
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-FFFFFF?logo=apachespark)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
+![Google Cloud](https://img.shields.io/badge/Google-Cloud-4285F4?logo=googlecloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
