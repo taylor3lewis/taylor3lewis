@@ -1,8 +1,14 @@
-# Hi, I'm Taylor Lewis [![LinkedIn](https://img.shields.io/badge/LinkedIn-Taylor%20Lewis-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/taylor3lewis/)
+# Hi, I'm Taylor Lewis
+
+## 👋 About Me
 
 Senior Data Engineer with 15+ years of experience building large-scale data pipelines, web data collection systems and backend APIs.
 
-I specialize in scalable data engineering solutions, distributed web scraping and cloud-based data infrastructure.
+I specialize in scalable data engineering solutions, AI solutions, distributed web scraping, and cloud-based data infrastructure.
+
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Taylor%20Lewis-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/taylor3lewis/)
 
 ## Core Technologies
 
