@@ -6,7 +6,7 @@ Senior Data Engineer with 15+ years of experience building large-scale data pipe
 
 I specialize in scalable data engineering solutions, AI solutions, distributed web scraping, and cloud-based data infrastructure.
 
-## 🔗 Connect with me [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/taylor3lewis/)
+## 🔗 Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/taylor3lewis/)
 
 ## Core Technologies
 
