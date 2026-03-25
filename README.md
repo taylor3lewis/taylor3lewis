@@ -1,4 +1,4 @@
-# Hi, I'm Taylor Lewis
+# Hi, I'm Taylor Lewis [![LinkedIn](https://img.shields.io/badge/LinkedIn-Taylor%20Lewis-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/taylor3lewis/)
 
 Senior Data Engineer with 15+ years of experience building large-scale data pipelines, web data collection systems and backend APIs.
 
